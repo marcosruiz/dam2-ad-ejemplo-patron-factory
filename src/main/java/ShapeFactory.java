@@ -1,5 +1,7 @@
 import java.util.Random;
-
+/**
+ * Esta clase se encarga de crear formas (Shape) con un criterio determinado
+ */
 public class ShapeFactory {
   public Shape getShape(){
     Random random = new Random();
