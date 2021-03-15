@@ -1,3 +1,6 @@
+/**
+ * Clase principal
+ */
 public class App {
   final static int TOTAL_SHAPES = 20;
 
